@@ -1,0 +1,8 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "main": "main.js",
+  "repository": "https://github.com/kjwook7522/ace-card-live",
+  "author": "kjwook7522",
+  "license": "MIT"
+}
