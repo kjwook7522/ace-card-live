@@ -2,7 +2,6 @@
   "name": "server",
   "version": "0.1.0",
   "private": true,
-  "type": "module",
   "repository": "https://github.com/kjwook7522/ace-card-live",
   "author": "kjwook7522",
   "license": "MIT",
@@ -16,6 +15,6 @@
     "typescript": "^4.5.5"
   },
   "scripts": {
-    "start": "ts-node server.ts"
+    "start": "NODE_PATH=. ts-node server.ts"
   }
 }
